@@ -43,7 +43,6 @@ The model learns patterns from the training data and predicts loan approval on u
 * Scikit-learn
 * Matplotlib
 * Seaborn
-* ---
 ## Objective
 The goal of this project is to demonstrate a **machine learning pipeline for loan approval prediction**, including data preprocessing, feature scaling, model training, and evaluation.
 
